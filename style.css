@@ -24,8 +24,6 @@ span {
   height: 308.45px;
   left: 567.5px;
   top: 1163.68px;
-
-  background: #F6E2F8;
 }
 
 .pict11 {
@@ -83,3 +81,33 @@ top: 1225.05px;
   border: none;
   background-color: inherit;
 }
+
+
+.imagepink2 {
+  position: absolute;
+  width: 357.99px;
+  height: 308.45px;
+  left: 1100px;
+  top: 1692.59px;
+}
+
+.pict22 {
+  position: absolute;
+  width: 173.11px;
+  height: 175.44px;
+  left: 1440px;
+  top: 2100px;
+  border-radius: 15px;
+  transform: rotateY(deg);
+}
+
+.pict21 {
+  position: absolute;
+  width: 145.53px;
+  height: 145.5px;
+  left: 1300px;
+  top: 2000px;
+  border-radius: 15px;
+  transform: rotateY(deg);
+}
+
