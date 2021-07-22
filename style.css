@@ -1,0 +1,85 @@
+.whatsnew {
+  position: absolute;
+  width: 881px;
+  height: 74.02px;
+  left: 900px;
+  top: 1057.66px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  text-align: center;
+}
+
+span {
+  color: #954C9B;
+  font-weight: bold;
+}
+
+.imagepink1 {
+  position: absolute;
+  width: 357.99px;
+  height: 308.45px;
+  left: 567.5px;
+  top: 1163.68px;
+
+  background: #F6E2F8;
+}
+
+.pict11 {
+  position: absolute;
+  width: 173.11px;
+  height: 175.44px;
+  left: 616.05px;
+  top: 1206.43px;
+  border-radius: 15px;
+}
+
+.pict12 {
+  position: absolute;
+  width: 145.53px;
+  height: 145.53px;
+  left: 780px;
+  top: 1410px;
+  border-radius: 15px;
+}
+
+.CodingComp {
+  position: absolute;
+width: 561.27px;
+height: 141.85px;
+left: 1340px;
+top: 1225.05px;
+}
+
+.CompeteCoding {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+  
+
+  color: #291E1E;
+}
+
+.iconbutton1 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  border: none;
+  
+  background-color: inherit;
+  color: #954C9B;
+}
+
+.arrow1 {
+  width:18px;
+  height:18px;
+  border: none;
+  background-color: inherit;
+}
