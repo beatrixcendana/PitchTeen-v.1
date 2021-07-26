@@ -210,7 +210,7 @@ top: 2780px;
 
 
 .list-text { /* checklist icon for part 3. Issue with this, not align with the text*** */
-  list-style-image: url(Checklist-icon.png);
+  list-style-image: url(images/Checklist-icon.png);
 }
 
 .poppintext { /* poppin text for description part 3 */
