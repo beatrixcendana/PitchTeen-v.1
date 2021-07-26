@@ -1,3 +1,4 @@
+/* Title part */
 .whatsnew {
   position: absolute;
   width: 881px;
@@ -18,43 +19,43 @@ span {
   font-weight: bold;
 }
 
-.imagepink1 {
+
+/* Part one of what's new? */
+.imagepink1 { /* Pink blob 1 */
   position: absolute;
   width: 357.99px;
   height: 308.45px;
   left: 567.5px;
   top: 1163.68px;
-
-  background: #F6E2F8;
 }
 
-.pict11 {
+.pict11 { /* person present part 1 */
   position: absolute;
   width: 173.11px;
   height: 175.44px;
-  left: 616.05px;
-  top: 1206.43px;
+  left: 640px;
+  top: 1250px;
   border-radius: 15px;
 }
 
-.pict12 {
+.pict12 { /* Backpack picture part 1 */
   position: absolute;
   width: 145.53px;
   height: 145.53px;
-  left: 780px;
-  top: 1410px;
+  left: 840px;
+  top: 1460px;
   border-radius: 15px;
 }
 
-.CodingComp {
+.CodingComp { /* the group of coding competitions text 1*/
   position: absolute;
 width: 561.27px;
 height: 141.85px;
 left: 1340px;
-top: 1225.05px;
+top: 1380px;
 }
 
-.CompeteCoding {
+.CompeteCoding { /* Compete in Coding Competitions text 1*/
   font-family: Poppins;
   font-style: normal;
   font-weight: 500;
@@ -65,7 +66,13 @@ top: 1225.05px;
   color: #291E1E;
 }
 
-.iconbutton1 {
+.CompeteCodingDesc { /* Compete in Coding Competition description 1 */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.iconbutton1 { /* Learn more button 1 */
   font-family: Poppins;
   font-style: normal;
   font-weight: 600;
@@ -77,7 +84,154 @@ top: 1225.05px;
   color: #954C9B;
 }
 
-.arrow1 {
+.arrow1 { /* Arrow button 1 */
+  width:18px;
+  height:18px;
+  border: none;
+  background-color: inherit;
+}
+
+
+/* Part two of what's new? */
+.imagepink2 { /* Pink blob 2 */
+  position: absolute;
+  width: 357.99px;
+  height: 308.45px;
+  left: 1100px;
+  top: 1692.59px;
+}
+
+
+.pict22 { /* Backpack picture part 2 */
+  position: absolute;
+  width: 173.11px;
+  height: 175.44px;
+  left: 1640px;
+  top: 2140px;
+  border-radius: 15px;
+  transform: rotateY(180deg);
+}
+
+.pict21 { /* person present part 2 pict */
+  position: absolute;
+  width: 145.53px;
+  height: 145.5px;
+  left: 1520px;
+  top: 2000px;
+  border-radius: 15px;
+  transform: rotateY(180deg);
+}
+
+.Navigate1 { /* the group of navigate through text 2*/
+  position: absolute;
+width: 561.27px;
+height: 1441.12px;
+left: 564.97px;
+top: 2200px;
+}
+
+.Navithrough { /* Navigate through college process text 2*/
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+  color: #291E1E;
+}
+
+.Questions { /* Navigate through description 2 */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.iconbutton2 { /* Learn more button 2 */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  border: none;
+  
+  background-color: inherit;
+  color: #954C9B;
+}
+
+.arrow1 { /* Arrow button 2 */
+  width:18px;
+  height:18px;
+  border: none;
+  background-color: inherit;
+}
+
+/* Part three of what's new? */
+.imagepink3 { /* pink blob 3 */
+  position: absolute;
+  width: 357.99px;
+  height: 308.45px;
+  left: 567.5px;
+  top: 2600px;
+}
+
+.pict31 { /* person present part 3 */
+  position: absolute;
+  width: 173.11px;
+  height: 175.44px;
+  left: 640px;
+  top: 2690px;
+  border-radius: 15px;
+}
+
+.pict32 { /* backpack picture part 3 */
+  position: absolute;
+  width: 145.53px;
+  height: 145.53px;
+  left: 840px;
+  top: 2900px;
+  border-radius: 15px;
+}
+
+.Chapter1 { /* the group of chapter */
+  position: absolute;
+width: 571.69px;
+height: 258.18px;
+left: 1340px;
+top: 2780px;
+}
+
+.Lead1 { /* Lead the chapter text 3 */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+  color: #291E1E;
+}
+
+
+.list-text { /* checklist icon for part 3. Issue with this, not align with the text*** */
+  list-style-image: url(images/Checklist-icon.png);
+}
+
+.poppintext { /* poppin text for description part 3 */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.iconbutton3 { /* learn more button 3 */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  border: none;
+  
+  background-color: inherit;
+  color: #954C9B;
+}
+
+.arrow1 { /* arrow button 3 */
   width:18px;
   height:18px;
   border: none;
